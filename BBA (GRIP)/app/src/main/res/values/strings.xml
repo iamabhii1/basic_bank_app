@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Banking App</string>
+    <string name="banking_system_app">Basic Banking  App</string>
+    <string name="all_users">Users</string>
+    <string name="all_transactions">Transactions</string>
+    <string name="user_name">User_Name</string>
+</resources>
